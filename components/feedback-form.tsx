@@ -43,7 +43,7 @@ export function FeedbackForm({
       <header className="border-b border-border/50 bg-card/50 backdrop-blur-sm">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <a href="/" className="flex items-center gap-2">
+            <a href="/bellohirewebsite-new/" className="flex items-center gap-2">
               <div className="w-8 h-8 rounded-lg bg-primary flex items-center justify-center text-primary-foreground font-bold">
                 K
               </div>
@@ -203,7 +203,7 @@ export function FeedbackForm({
               { label: "Dashboard", href: "#" },
               { label: "Help Center", href: "#" },
               { label: "Settings", href: "#" },
-              { label: "Sign Out", href: "/" },
+              { label: "Sign Out", href: "/bellohirewebsite-new/" },
             ].map((link) => (
               <a
                 key={link.label}

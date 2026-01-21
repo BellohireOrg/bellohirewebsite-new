@@ -83,13 +83,13 @@ export function Navigation() {
           {/* CTA Buttons */}
           <div className="hidden md:flex md:items-center md:gap-3">
             <a
-              href="/candidate/feedback"
+              href="/bellohirewebsite-new/candidate/feedback"
               className="px-4 py-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
             >
               Candidate Portal
             </a>
             <a
-              href="/company/feedback"
+              href="/bellohirewebsite-new/company/feedback"
               className="px-4 py-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
             >
               Company Portal
@@ -177,13 +177,13 @@ export function Navigation() {
               ))}
               <div className="mt-6 flex flex-col gap-3 border-t border-border pt-6">
                 <a
-                  href="/candidate/feedback"
+                  href="/bellohirewebsite-new/candidate/feedback"
                   className="block rounded-lg px-4 py-3 text-center text-lg font-medium text-muted-foreground transition-colors hover:bg-card hover:text-foreground"
                 >
                   Candidate Portal
                 </a>
                 <a
-                  href="/company/feedback"
+                  href="/bellohirewebsite-new/company/feedback"
                   className="block rounded-lg px-4 py-3 text-center text-lg font-medium text-muted-foreground transition-colors hover:bg-card hover:text-foreground"
                 >
                   Company Portal
