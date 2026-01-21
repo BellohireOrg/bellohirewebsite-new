@@ -57,7 +57,7 @@ export function Navigation() {
             className="flex items-center gap-2"
           >
             <div className="relative flex h-8 w-8 items-center justify-center rounded-lg bg-primary/10 border border-primary/20">
-              <span className="text-lg font-bold text-primary">B</span>
+              <span className="text-lg font-bold text-primary">K</span>
               <div className="absolute inset-0 rounded-lg bg-primary/20 blur-sm" />
             </div>
             <span className="text-xl font-bold tracking-tight">
@@ -83,10 +83,16 @@ export function Navigation() {
           {/* CTA Buttons */}
           <div className="hidden md:flex md:items-center md:gap-3">
             <a
-              href="#"
+              href="/candidate/feedback"
               className="px-4 py-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
             >
-              Sign In
+              Candidate Portal
+            </a>
+            <a
+              href="/company/feedback"
+              className="px-4 py-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
+            >
+              Company Portal
             </a>
             <a
               href="#cta"
@@ -171,10 +177,16 @@ export function Navigation() {
               ))}
               <div className="mt-6 flex flex-col gap-3 border-t border-border pt-6">
                 <a
-                  href="#"
+                  href="/candidate/feedback"
                   className="block rounded-lg px-4 py-3 text-center text-lg font-medium text-muted-foreground transition-colors hover:bg-card hover:text-foreground"
                 >
-                  Sign In
+                  Candidate Portal
+                </a>
+                <a
+                  href="/company/feedback"
+                  className="block rounded-lg px-4 py-3 text-center text-lg font-medium text-muted-foreground transition-colors hover:bg-card hover:text-foreground"
+                >
+                  Company Portal
                 </a>
                 <a
                   href="#cta"
