@@ -91,7 +91,7 @@ export function WhatIsSection() {
               variants={fadeInLeft}
               className="mt-8 text-lg text-muted-foreground leading-relaxed"
             >
-              BelloHire combines a transparent job portal, AI-assisted screening, and
+              Keelzo combines a transparent job portal, AI-assisted screening, and
               a unified hiring workspace — all designed to move faster while treating
               everyone with dignity.
             </motion.p>

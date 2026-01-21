@@ -28,7 +28,7 @@ const steps = [
     title: "Jobs Are Clear Before Candidates Apply",
     subtitle: "Understand, don't just read.",
     description:
-      "For every published job, BelloHire summarizes the company and role using AI, explains how the role impacts the team and business, and shows which skills match — and which don't.",
+      "For every published job, Keelzo summarizes the company and role using AI, explains how the role impacts the team and business, and shows which skills match — and which don't.",
     highlights: ["No false hope", "No blind applications"],
     icon: (
       <svg className="h-8 w-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -64,7 +64,7 @@ const steps = [
     title: "Recruiters See Signal, Not Noise",
     subtitle: "Focus on the right people.",
     description:
-      "BelloHire filters resumes before recruiters waste time. AI matches resumes against must-have criteria. Candidates ranked transparently. Low-fit resumes separated — not deleted.",
+      "Keelzo filters resumes before recruiters waste time. AI matches resumes against must-have criteria. Candidates ranked transparently. Low-fit resumes separated — not deleted.",
     highlights: ["Human decisions", "Assisted by AI — not replaced"],
     icon: (
       <svg className="h-8 w-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">

@@ -43,7 +43,7 @@ export function WhoForSection() {
             variants={fadeInUp}
             className="text-sm font-semibold uppercase tracking-widest text-primary"
           >
-            Is BelloHire Right For You?
+            Is Keelzo Right For You?
           </motion.span>
           <motion.h2
             variants={fadeInUp}
@@ -55,7 +55,7 @@ export function WhoForSection() {
             variants={fadeInUp}
             className="mt-6 text-lg text-muted-foreground"
           >
-            BelloHire isn&apos;t for everyone — and that&apos;s by design.
+            Keelzo isn&apos;t for everyone — and that&apos;s by design.
           </motion.p>
         </motion.div>
 
@@ -84,7 +84,7 @@ export function WhoForSection() {
                   />
                 </svg>
               </div>
-              <h3 className="text-2xl font-bold">Who BelloHire Is For</h3>
+              <h3 className="text-2xl font-bold">Who Keelzo Is For</h3>
             </div>
 
             <ul className="space-y-4">
@@ -138,7 +138,7 @@ export function WhoForSection() {
                   />
                 </svg>
               </div>
-              <h3 className="text-2xl font-bold">What BelloHire Is Not</h3>
+              <h3 className="text-2xl font-bold">What Keelzo Is Not</h3>
             </div>
 
             <ul className="space-y-4">

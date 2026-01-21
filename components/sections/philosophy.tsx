@@ -64,7 +64,7 @@ export function PhilosophySection() {
             variants={fadeInUp}
             className="mt-12 text-lg text-muted-foreground max-w-2xl mx-auto"
           >
-            BelloHire is built to reflect that belief in every interaction — from the first
+            Keelzo is built to reflect that belief in every interaction — from the first
             job listing a candidate sees, to the final hiring decision a company makes.
           </motion.p>
 

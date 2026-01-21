@@ -9,7 +9,7 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "BelloHire | Hiring, without the noise",
+  title: "Keelzo | Hiring, without the noise",
   description:
     "A candidate-first hiring platform that replaces outdated ATS workflows with clarity, speed, and trust. Modern recruiting for startups and growing companies.",
   keywords: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     "HR tech",
   ],
   openGraph: {
-    title: "BelloHire | Hiring, without the noise",
+    title: "Keelzo | Hiring, without the noise",
     description:
       "A candidate-first hiring platform that replaces outdated ATS workflows with clarity, speed, and trust.",
     type: "website",

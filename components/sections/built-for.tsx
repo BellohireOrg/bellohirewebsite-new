@@ -128,7 +128,7 @@ export function BuiltForSection() {
             className="mt-6 text-lg text-muted-foreground"
           >
             Whether you&apos;re looking for your next role or building your team,
-            BelloHire works for you.
+            Keelzo works for you.
           </motion.p>
         </motion.div>
 

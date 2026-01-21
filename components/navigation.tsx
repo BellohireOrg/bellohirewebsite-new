@@ -61,7 +61,7 @@ export function Navigation() {
               <div className="absolute inset-0 rounded-lg bg-primary/20 blur-sm" />
             </div>
             <span className="text-xl font-bold tracking-tight">
-              Bello<span className="text-primary">Hire</span>
+              Keel<span className="text-primary">zo</span>
             </span>
           </a>
 

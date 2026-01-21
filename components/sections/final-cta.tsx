@@ -45,7 +45,7 @@ export function FinalCTASection() {
             variants={fadeInUp}
             className="mt-4 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl"
           >
-            Start using <span className="text-primary">BelloHire</span> today
+            Start using <span className="text-primary">Keelzo</span> today
           </motion.h2>
 
           <motion.p

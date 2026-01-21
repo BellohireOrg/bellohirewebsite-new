@@ -48,7 +48,7 @@ export function Footer() {
                 <span className="text-lg font-bold text-primary">B</span>
               </div>
               <span className="text-xl font-bold tracking-tight">
-                Bello<span className="text-primary">Hire</span>
+                Keel<span className="text-primary">zo</span>
               </span>
             </a>
             <p className="mt-4 text-sm text-muted-foreground leading-relaxed max-w-xs">
@@ -137,7 +137,7 @@ export function Footer() {
         <div className="mt-12 border-t border-border pt-8">
           <div className="flex flex-col items-center justify-between gap-4 sm:flex-row">
             <p className="text-sm text-muted-foreground">
-              &copy; {new Date().getFullYear()} BelloHire. All rights reserved.
+              &copy; {new Date().getFullYear()} Keelzo. All rights reserved.
             </p>
 
             {/* Social links */}

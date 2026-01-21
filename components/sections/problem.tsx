@@ -174,7 +174,7 @@ export function ProblemSection() {
           className="mt-16 text-center"
         >
           <p className="text-xl font-semibold text-primary">
-            BelloHire exists to fix that.
+            Keelzo exists to fix that.
           </p>
         </motion.div>
       </div>
